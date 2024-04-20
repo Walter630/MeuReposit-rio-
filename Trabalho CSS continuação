@@ -1,0 +1,23 @@
+body{
+    background-image: url(mangachan.jpg);
+    position: absolute;
+    background-size: 100%;
+}
+img{
+    width: 208px;
+    height: 350px;
+}
+h1{
+    text-align: center;
+}
+ol{
+    text-align: center;
+    color: white;
+}
+dl{
+    color: orangered;
+}
+a{
+    background-color: yellow;
+    touch-action: auto; 
+}
