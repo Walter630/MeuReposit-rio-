@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="tra.css">
+    <title>Site de Manga</title>
+</head>
+<body>
+    <u><i><h1>Bem vindo ao Mundo Manga!</h1></i></u>
+    <ol type="I">
+        <h2><li>Titulos de animes populares</li></h2>
+        <h2><li>Capitulos lançados semanalmente</li></h2>
+    </ol>
+
+    <dl>
+<h3><dd>Solo Leveling '-------------' kaijuu-8-gou '-------' tomo-chan-wa-onna-no-ko ------- 
+    Martial-Pea ------- The the-beginning-after-the-end --- Re:Monster
+    </dd></h3>
+        <a href="https://mangaschan.net/manga/solo-leveling/"><img src="sung2.jpg"></a>
+        <a href="https://mangaschan.net/manga/kaijuu-8-gou"><img src="kaijuu.jpg"></a></li>
+        <a href="https://mangaschan.net/manga/tomo-chan-wa-onna-no-ko/"><img src="manga3.jpg"></a>
+        <a href="https://mangaschan.net/manga/Martial-Peak"><img src="martial.jpg"></a>
+        <a href="https://mangaschan.net/manga/the-beginning-after-the-end/"><img src="manga2.jpg"></a>
+        <a href="https://mangaschan.net/manga/remonster/"><img src="re.jpg"></a>
+    </dl>
+    <ol type="1">
+    <h2><ul>Muito mais Mangas aqui!</ul></h2><a href="https://mangaschan.net">Site de Manga</a>
+    </ol>
+</body>
+</html>
+
+
+
+
