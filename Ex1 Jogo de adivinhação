@@ -1,0 +1,21 @@
+import random
+controle = True
+
+C = random.randint(1, 100)
+
+N = 0
+while controle:
+         J = int(input('Digite um valor entre (1, 100): '))
+         if J > 100:
+             print('Erro numero nao existe')
+         if C == J:
+             print('Jogador acertou. Parabens!')
+             break
+         else:
+             print('Tente novamente')
+             N += 1
+             if J < C:
+                 print('Tente um numero maior')
+             else:
+                 print('Tente um numero menor')
+ print(f'O jogador precisou chutar \033[032m{N}\033[m numeros pra acerta o numero pensado pelo computador')
